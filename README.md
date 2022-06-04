@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manojm97/](https://github.com/manojm97/WebApp)
+- 👨‍💻 All of my projects are available at [https://github.com/manojm97/](https://github.com/manojm97/)
 
 - 💬 Ask me about **JavaScript,React,Node.Js,MERN Stack,PHP,Azure**
 
