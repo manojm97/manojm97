@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi There 😀 , I'm Manoj M <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="100px"> ! </h1>
+<h1 align="center"> Hi There 😀 , I'm Manoj M <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
@@ -20,7 +20,7 @@
 
 <h3> 👦 I'm a Programmer, Developer and Learner!!</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/manojm97/WebApp)
+- 🔭 I’m currently working on [MERN App](https://github.com/manojm97/memories-app-mern)
 
 - 🌱 I’m currently learning **Full stack**
 
